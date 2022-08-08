@@ -11,7 +11,7 @@
     "gas": "200000",
     "debug": false,
     "timeout": "30s",
-    "memo-prefix": "gauthui02#5267"
+    "memo-prefix": "gauthui02#5267",
     "output-format": "json",
     "sign-mode": "direct"
   }
