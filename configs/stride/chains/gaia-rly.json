@@ -7,7 +7,7 @@
     "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.4,
-    "gas-prices": "0.0025uatom",
+    "gas-prices": "0.025uatom",
     "gas": "200000",
     "debug": false,
     "timeout": "30s",
